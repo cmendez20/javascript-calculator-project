@@ -1,3 +1,5 @@
+// VERSION ONE OF CALCULATOR APP
+
 let resultScreen = document.querySelector('.result-screen');
 let numOne = undefined;
 let numTwo = undefined;
