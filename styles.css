@@ -9,7 +9,8 @@
   display: flex; 
   flex-flow: column;
   height: 585px;
-  width: 400px;
+  max-width: 400px;
+  width: 95%;
 }
 
 .row {
